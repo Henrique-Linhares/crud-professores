@@ -12,12 +12,12 @@ function Sidebar() {
       icon: <FaHome />,
     },
     {
-      path: "/lista",
+      path: "/formulario",
       name: "Formulario",
       icon: <FaUsers />,
     },
     {
-      path: "/formulario",
+      path: "/lista",
       name: "Lista",
       icon: <FaUserTie />,
     },
